@@ -9,10 +9,6 @@
 ### Some of my favorite repo :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rifatsaown&repo=tailwind-card)](https://github.com/rifatsaown/tailwind-card)
 
-### Spotify Playing 🎶
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rifat Spotify Playing" width="350" />](https://open.spotify.com/user/31qy7jggxgrc3zleeltgiocpii3u/playlist/7MRmV1tsGiUlLHjoRZ2bnh?si=ie8bmug6Swm1f7qlV2wW-g)
-
 ### Connect with me:
 
 [<img align="left" alt="Rifat_Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
