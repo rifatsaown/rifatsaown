@@ -40,6 +40,10 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 
 <br/>
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifatsaown&show_icons=true&locale=en&layout=compact" alt="rifatsaown" /></p>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rifatsaown.rifatsaown)
 
 ![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifatsaown&show_icons=true&theme=blueberry&count_private=true)
