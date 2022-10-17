@@ -4,7 +4,7 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 
 - 🌱 I’m currently learning JavaScript 😄
 - 👯 I’m looking to collaborate on a React Project 📝
-- 🔭 I’m currently working on Programming Hero Reast Batch-3 🥅
+- 🔭 I’m currently working on "Bekar Programmer" 🥅
 - ⚡ Fun fact: I love Gaming 🎮🕹️ 
 
 
