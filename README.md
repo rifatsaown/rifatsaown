@@ -3,7 +3,7 @@
 Quick notes, in case you don’t feel like reading all of this: I design and build websites. I’m fluent in HTML and CSS, and pretty handy with Javascript and react. I am now in the learning stage.
 
 - 🌱 I’m currently learning JavaScript 😄
-- 👯 I’m looking to collaborate on a React Project 📝
+- 👯 I’m looking for a job 📝
 - 🔭 I’m currently working on "Bekar Programmer" 🥅
 - ⚡ Fun fact: I love Gaming 🎮🕹️ 
 
