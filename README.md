@@ -37,6 +37,9 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
+### Profile Visitors 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rifatsaown.visitor-badge&left_color=0e75b6&right_color=red)
+<br />
 
 <br/>
 
