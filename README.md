@@ -1,19 +1,23 @@
+<div align="center">
 <h1 align="center">Hi 👋, It's Rifat</h1>
 <h3 align="center">A passionate frontend Web Developer from Bangladesh</h3>
-Quick notes, in case you don’t feel like reading all of this: I design and build websites. I’m fluent in HTML and CSS, and pretty handy with Javascript and react. I am now in the learning stage.
+<p>Quick notes, in case you don’t feel like reading all of this: I design and build websites. I’m fluent in HTML and CSS, and pretty handy with Javascript and react. I am now in the learning stage.</p>
 
-- 🌱 I’m currently learning JavaScript 😄
-- 👯 I’m looking for a job 📝
-- 🔭 I’m currently working on "Bekar Programmer" 🥅
-- ⚡ Fun fact: I love Gaming 🎮🕹️ 
+<p>🌱 I’m currently learning JavaScript 😄 <br/>
+👯 I’m looking for a job 📝 <br/>
+🔭 I’m currently working on "Bekar Programmer" 🥅 <br/>
+⚡ Fun fact: I love Gaming 🎮🕹️
+</p>
 
+<hr/>
 
 ### Contuct with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rifatsaown/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rifatsaown0)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rifatsaown/)
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rifatsaown0)
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rifatsaown/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'>](https://t.me/rifatsaown ) 
+
 
 <hr/>
 
@@ -62,17 +66,12 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) 
 
 
+
 <hr/>
 
-
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rifatsaown.visitor-badge&left_color=0e75b6&right_color=darkblue)
-<br />
 
 ![Rifat's Most Used Langage](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatsaown&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifatsaown&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<hr/>
-
-
-<!--- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rifatsaown)-->
+</div>
