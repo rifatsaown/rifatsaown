@@ -38,7 +38,7 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 </p>
 
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rifatsaown.visitor-badge&left_color=0e75b6&right_color=red)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rifatsaown.visitor-badge&left_color=0e75b6&right_color=darkblue)
 <br />
 
 <br/>
