@@ -48,4 +48,4 @@ Quick notes, in case you don’t feel like reading all of this: I design and bui
 
 ![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifatsaown&show_icons=true&theme=blueberry&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rifatsaown ) 
+[//]: <> (![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rifatsaown ) )
