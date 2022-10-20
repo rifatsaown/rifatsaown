@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, It's Rifat</h1>
 <h3 align="center">A passionate frontend Web Developer from Bangladesh</h3>
-<p>Quick notes, in case you don’t feel like reading all of this: I design and build websites. I’m fluent in HTML and CSS, and pretty handy with Javascript and react. I am now in the learning stage.</p>
+<p>Quick notes,in case you don’t feel like reading all of this: <strong>I design and build websites</strong></p>
 
 <p>🌱 I’m currently learning JavaScript 😄 <br/>
 👯 I’m looking for a job 📝 <br/>
