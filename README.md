@@ -18,7 +18,6 @@
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rifatsaown/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'>](https://t.me/rifatsaown ) 
 
-
 <hr/>
 
 ### 🖥️ Tech Stack:
