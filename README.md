@@ -70,9 +70,9 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rifatsaown.visitor-badge&left_color=0e75b6&right_color=darkblue)
   
-![Rifat's Most Used Langage](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatsaown&layout=compact&theme=algolia)
+ <!--- ![Rifat's Most Used Langage](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatsaown&layout=compact&theme=algolia)
   
-![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifatsaown&theme=algolia&show_icons=true&include_all_commits=true&count_private=true)
+![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifatsaown&theme=algolia&show_icons=true&include_all_commits=true&count_private=true) -->
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rifatsaown&theme=algolia)
 </div>
