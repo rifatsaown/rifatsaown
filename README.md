@@ -2,16 +2,20 @@
 <h1 align="center">Hi 👋, It's Rifat</h1>
 <h3 align="center">A passionate frontend Web Developer from Bangladesh</h3>
 <p>Quick notes,in case you don’t feel like reading all of this: <strong>I design and build websites</strong></p>
+  
 
 <p>🌱 I’m currently learning JavaScript 😄 <br/>
 👯 I’m looking for a job 📝 <br/>
 🔭 I’m currently working on "Bekar Programmer" 🥅 <br/>
 ⚡ Fun fact: I love Gaming 🎮🕹️
 </p>
+  
+  <a href="https://app.daily.dev/rifatsaown"><img src="https://api.daily.dev/devcards/d9bc2ba4a56a461f8347fc647b95f37b.png?r=3ik" width="400" alt="Md. Rifat Hossen Saown's Dev Card"/></a>
+  
 
 <hr/>
 
-  
+
 ### Contuct with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rifatsaown/)
