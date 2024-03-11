@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 ###
 
