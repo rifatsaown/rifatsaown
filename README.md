@@ -155,5 +155,5 @@
 
 ###
 <div align="center">
-<a href="https://app.daily.dev/rifatsaown"><img src="https://api.daily.dev/devcards/d9bc2ba4a56a461f8347fc647b95f37b.png?r=3ik" width="400" alt="Md. Rifat Hossen Saown's Dev Card"/></a>
+<a href="https://app.daily.dev/rifatsaown"><img src="https://api.daily.dev/devcards/v2/JJHWQzoQUJcrJkP9Hz0Mh.png?r=y2m&type=wide" width="652" alt="Md. Rifat Hossen Saown's Dev Card"/></a>
 </div>
